@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This softwers computes the evolution of particles in a
+This software computes the evolution of particles in a
 smoothed 1-dimensional hydrodynamic system and prints
 their position and energy and density for
 certain time values into files. For the
